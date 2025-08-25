@@ -24,7 +24,7 @@ PyHarvest was a game designed for my High School CS project which allowed me to 
 ---
 
 ## Gamplay Example
-
+![PyHarvest example gif](https://github.com/user-attachments/assets/cf4cb257-3ac2-4223-9d6a-355002d64366)
 ---
 
 ## Project Structure
